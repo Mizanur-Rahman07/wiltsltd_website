@@ -525,6 +525,9 @@ a {
 }
 
 @media (max-width:768px){
+    .navbar {
+        height: 73px;
+    }
     .nav-link{
         background: rgba(0, 0, 0, 0.3);
         text-align: center;
